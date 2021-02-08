@@ -8,6 +8,8 @@
   👩🏻‍💻 Software Engineer<br>
   💬 Passionate about App Development and Technology<br>
   🌀 Currently working on a mobile app and learning about all things React & Redux
+  📫 Email: mazariek@gmail.com <br>
+  ⭐ Portfolio: <a href="https://karlamazariegos.com/" target="_blank"> mazariek@gmail.com</a>
 </p>
 
 ---
@@ -25,14 +27,14 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/kmazariegos/github-readme-stats" title="Go to Source">
     <img width=330px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmazariegos&layout=compact&theme=nightowl">
   </a>
   <a href="https://github.com/kmazariegos/github-readme-stats" title="Go to Source">
     <img width=330px align="center" src="https://github-readme-stats.vercel.app/api?username=kmazariegos&show_icons=true&theme=nightowl">
   </a>
-</p>
+</p> -->
 
 ---
 
