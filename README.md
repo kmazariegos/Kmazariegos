@@ -7,9 +7,9 @@
 <p align="center">
   👩🏻‍💻 Software Engineer<br>
   💬 Passionate about App Development and Technology<br>
-  🌀 Currently working on a mobile app and learning about all things React & Redux
-  📫 Email: mazariek@gmail.com <br>
-  ⭐ Portfolio: <a href="https://karlamazariegos.com/" target="_blank"> mazariek@gmail.com</a>
+  🌀 Currently working on a mobile app and learning about all things React & Redux<br>
+  📫 Email: mazariek@gmail.com<br>
+  ⭐ Portfolio: <a href="https://karlamazariegos.com/" target="_blank">karlamazariegos.com</a>
 </p>
 
 ---
