@@ -26,10 +26,10 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+  <a href="https://github.com/kmazariegos/github-readme-stats" title="Go to Source">
     <img width=330px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmazariegos&layout=compact&theme=nightowl">
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+  <a href="https://github.com/kmazariegos/github-readme-stats" title="Go to Source">
     <img width=330px align="center" src="https://github-readme-stats.vercel.app/api?username=kmazariegos&show_icons=true&theme=nightowl">
   </a>
 </p>
