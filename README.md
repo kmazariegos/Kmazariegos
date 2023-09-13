@@ -5,7 +5,7 @@
 <h1 align="center">Hello</h1>
 
 <p align="center">
-  👩🏻‍💻 Developer Success Engineer @ WorkOS<br>
+  👩🏻‍💻 Developer Success Engineer<br>
   💬 Passionate about Software Development and Technology<br>
   🌀 Currently working on a mobile app and learning about all things React & Redux<br>
   📫 Email: mazariek@gmail.com<br>
